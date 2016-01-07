@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import RaisedButton from 'material-ui/lib/raised-button';
-import AvatarURL from './assets/peter.png';
+import AvatarURL from './assets/peter.jpeg';
 
 class About extends Component {
   render() {
